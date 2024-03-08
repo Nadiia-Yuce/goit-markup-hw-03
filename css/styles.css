@@ -232,15 +232,17 @@ button {
   width: calc((100% - 3 * 24px) / 4);
 }
 
+.team-wrap {
+  padding: 32px 0;
+}
+
 .team-subtitle {
   text-align: center;
-  margin-top: 32px;
   margin-bottom: 8px;
 }
 
 .team-text {
   text-align: center;
-  padding-bottom: 32px;
 }
 
 .portfolio {
